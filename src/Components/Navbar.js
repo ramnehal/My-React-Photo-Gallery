@@ -1,6 +1,6 @@
 import React from 'react'
 import SearchIcon from '@mui/icons-material/Search';
-import logo from '../logo.svg';
+import logo from '../logo.jpg';
 import "../App.css";
 
 function Navbar() {
