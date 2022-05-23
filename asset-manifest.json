@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-React-Photo-Gallery/static/css/main.493c4c95.css",
+    "main.js": "/My-React-Photo-Gallery/static/js/main.a71a2222.js",
+    "static/js/787.84de4b65.chunk.js": "/My-React-Photo-Gallery/static/js/787.84de4b65.chunk.js",
+    "static/media/City2.jpg": "/My-React-Photo-Gallery/static/media/City2.d7f71351bc22fea4b7f9.jpg",
+    "static/media/Forest1.jpg": "/My-React-Photo-Gallery/static/media/Forest1.58eac2f25deb9026c8ec.jpg",
+    "static/media/Beach1.jpg": "/My-React-Photo-Gallery/static/media/Beach1.a0a9cf6f771b598b2a15.jpg",
+    "static/media/Mountain1.jpg": "/My-React-Photo-Gallery/static/media/Mountain1.3bb2d9996053124f04e2.jpg",
+    "static/media/City1.jpg": "/My-React-Photo-Gallery/static/media/City1.1f7ae4cf9d52bff36b11.jpg",
+    "static/media/Animal1.jpg": "/My-React-Photo-Gallery/static/media/Animal1.681de7efa319ac0d6674.jpg",
+    "static/media/Animal2.jpg": "/My-React-Photo-Gallery/static/media/Animal2.3d8f534c9183a5d22220.jpg",
+    "static/media/Beach2.jpg": "/My-React-Photo-Gallery/static/media/Beach2.090568c562d5d71030a7.jpg",
+    "static/media/Forest2.jpg": "/My-React-Photo-Gallery/static/media/Forest2.57100fe7446905e21e24.jpg",
+    "static/media/Mountain2.jpg": "/My-React-Photo-Gallery/static/media/Mountain2.91c7fc0f15c9f3e9c75b.jpg",
+    "static/media/logo.jpg": "/My-React-Photo-Gallery/static/media/logo.710264376def362b072d.jpg",
+    "index.html": "/My-React-Photo-Gallery/index.html",
+    "main.493c4c95.css.map": "/My-React-Photo-Gallery/static/css/main.493c4c95.css.map",
+    "main.a71a2222.js.map": "/My-React-Photo-Gallery/static/js/main.a71a2222.js.map",
+    "787.84de4b65.chunk.js.map": "/My-React-Photo-Gallery/static/js/787.84de4b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493c4c95.css",
+    "static/js/main.a71a2222.js"
+  ]
+}
