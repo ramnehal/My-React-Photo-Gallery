@@ -3,58 +3,58 @@ import "./App.css";
 
 import CloseIcon from '@mui/icons-material/Close';
 
-import Img1 from './img/Beach1.jpg';
-import Img2 from './img/Beach2.jpg';
-import Img3 from './img/Forest1.jpg';
-import Img4 from './img/Forest2.jpg';
-import Img5 from './img/Mountain1.jpg';
-import Img6 from './img/Mountain2.jpg';
-import Img7 from './img/Animal1.jpg';
-import Img8 from './img/Animal2.jpg';
-import Img9 from './img/City1.jpg';
-import Img10 from './img/City2.jpg';
+import beach1 from './img/Beach1.jpg';
+import beach2 from './img/Beach2.jpg';
+import forest1 from './img/Forest1.jpg';
+import forest2 from './img/Forest2.jpg';
+import mountain1 from './img/Mountain1.jpg';
+import mountain2 from './img/Mountain2.jpg';
+import animal1 from './img/Animal1.jpg';
+import animal2 from './img/Animal2.jpg';
+import city1 from './img/City1.jpg';
+import city2 from './img/City2.jpg';
 
 const Gallery = () => {
     let data =[
         {
             id: 1,
-            imgSrc: Img1,
+            imgSrc: beach1,
         },
         {
             id: 2,
-            imgSrc: Img2,
+            imgSrc: beach2,
         },
         {
             id: 3,
-            imgSrc: Img3,
+            imgSrc: forest1,
         },
         {
             id: 4,
-            imgSrc: Img4,
+            imgSrc: forest2,
         },
         {
             id: 5,
-            imgSrc: Img5,
+            imgSrc: mountain1,
         },
         {
             id: 6,
-            imgSrc: Img6,
+            imgSrc: mountain2,
         },
         {
             id: 7,
-            imgSrc: Img7,
+            imgSrc: animal1,
         },
         {
             id: 8,
-            imgSrc: Img8,
+            imgSrc: animal2,
         },
         {
             id: 9,
-            imgSrc: Img9,
+            imgSrc: city1,
         },
         {
             id: 10,
-            imgSrc: Img10,
+            imgSrc: city2,
         }
     ]
 
